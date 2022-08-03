@@ -11,4 +11,4 @@ def total():
 
 
 print(hello())
-total()
+print(total())
